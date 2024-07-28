@@ -16,12 +16,14 @@ function sobreMim() {
         <S.SobreMim>
           <h3>Sobre Mim</h3>
           <h1>Breno Melo</h1>
-          <h3>Desenvolvedor de Software</h3>
+          <h3>Desenvolvedor Web</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-            quibusdam, dolorem dolores saepe, obcaecati est, eaque distinctio
-            nisi ab magni accusantium at esse adipisci? Repudiandae vel quia
-            maxime expedita veritatis.
+            Engajado e proativo, com 22 anos, busco minha primeira oportunidade
+            como desenvolvedor. Possuo formação técnica em Análise e
+            Desenvolvimento de Sistemas e estou constantemente aprendendo novas
+            tecnologias. Atualmente, participo do projeto Start, onde desenvolvo
+            projetos práticos utilizando JavaScript, React, Typescript e
+            Node.js.
           </p>
 
           <S.Contatos>
